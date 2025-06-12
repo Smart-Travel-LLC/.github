@@ -10,76 +10,54 @@
 
 ## 🌐 About Us
 
-**Smart Travel LLC** is a premier IATA-accredited **Travel Management Company (TMC)** founded in 2015 and headquartered in **Sharjah, UAE**. With **11 branches** across the UAE and India, we serve over **20,000 clients monthly**, offering a wide range of services from air ticketing and visa processing to worldwide holidays, car rentals, and travel insurance.
+[**Smart Travel LLC**](https://smarttravels.ae) is an IATA-accredited **Travel Management Company (TMC)** founded in 2015 and headquartered in **Sharjah, UAE**. With **11 branches** across the UAE and India, we proudly serve over **20,000 clients every month**.
+
+Led by industry veteran **Mr. Afi Ahmed**, Smart Travel is committed to delivering **affordable, high-quality travel services** through innovation, digital transformation, and community focus.
 
 ---
 
-## 🚀 Our Mission
-
-Led by **Mr. Afi Ahmed**, a seasoned expert in travel, tourism, and aviation, Smart Travel aims to deliver **affordable, high-quality travel and education services** that exceed customer expectations. We are continuously evolving through **technology, innovation, and strategic expansion**.
-
----
-
-## 🛠️ Our Digital Ecosystem
+## 🛠️ Our Brands & Platforms
 
 ### 🔹 [SmartZett.com](https://www.smartzett.com) — *B2B Travel Portal*
-Launched in early 2023, this is a **one-stop solution** for B2B affiliates, enabling seamless bookings for air travel, accommodation, and more. Over **700 affiliates** joined within weeks of launch; projected to reach **2,000+** by the end of the year.
+A one-stop platform for travel affiliates. Over **700+ B2B partners** onboarded within weeks of launch in 2023.
 
 ### 🔹 [HolidayMakers.com](https://www.holidaymakers.com) — *Consumer OTA*
-A full-service **Online Travel Agency**, launched mid-2023. Promoted through **SEO, digital marketing, and live events**, it offers curated travel experiences directly to consumers.
+A direct booking platform for holidays, flights, and experiences, launched mid-2023.
 
-### 🔹 [ComboDeals.com](https://www.combodeals.com) — *UAE Experience Portal*
-Introduced to offer **value-packed combo deals** for UAE attractions. Explore multiple destinations like Dubai, Abu Dhabi, and Ras Al Khaimah with budget-friendly packages. It’s your go-to platform for **unforgettable experiences at unbeatable value**.
+### 🔹 [ComboDeals.com](https://www.combodeals.com) — *UAE Attraction Combos*
+Affordable packages covering top UAE destinations and activities, offering **maximum value**.
 
 ### 🔹 [SmartzettAcademy.com](https://www.smartzettacademy.com) — *Education & Training*
-Launched in **September 2023**, Smartzett Academy is our educational initiative, offering **industry-focused training** in travel, tourism, and aviation. Backed by our operational legacy and IATA accreditation, the Academy empowers individuals to succeed in a globalized job market.
+An academy launched in 2023 to provide **industry-focused learning** in travel, tourism, and aviation.
 
 ---
 
-## 🌍 Our Reach & Growth
-
-- **Active Regions**: UAE, India  
-- **Planned Expansion**: Saudi Arabia, UK, South Africa  
-- **Employees**: 100+ trained professionals  
-- **Clients Served**: 20,000+ monthly  
-- **CSR Focus**: Multiple community support programs in UAE & India
-
----
-
-## 💡 Services Snapshot
+## 🌍 What We Offer
 
 - Air Ticketing
 - A2A Visa Change Packages
 - Global Holidays & Accommodation
 - Worldwide Visa Services
-- Car Rentals
-- Travel Insurance
-- Educational Training
-- UAE Experience Deals
+- Car Rentals & Insurance
+- UAE Combo Deals & Attractions
+- Training & Career Development
 
 ---
 
-## ❤️ Community Engagement
+## 🤝 Community & CSR
 
-Smart Travel LLC is deeply committed to giving back. Our chairman, **Mr. Afi Ahmed**, actively supports community development and CSR initiatives across the UAE and India.
-
----
-
-## 🧠 Technology & Development
-
-This GitHub Enterprise space serves as the **development hub** for our internal systems, web platforms, APIs, automation tools, and integration projects supporting all Smart Travel brands.
-
-> *For internal access or contribution requests, please reach out to your designated project lead or IT representative.*
+Smart Travel is an active contributor to **community development and social responsibility** in both the UAE and India, with direct involvement from our Chairman, **Mr. Afi Ahmed**.
 
 ---
 
-## 📫 Contact & Resources
+## 📫 Connect With Us
 
-- 🌐 [Smart Travel LLC](https://www.smartzett.com)
-- 🧳 [Holiday Makers](https://www.holidaymakers.com)
+- 🌐 [Main Website – SmartTravel.ae](https://smarttravels.ae)
+- 🧳 [SmartZett B2B](https://www.smartzett.com)
+- ✈️ [HolidayMakers OTA](https://www.holidaymakers.com)
 - 🎓 [Smartzett Academy](https://www.smartzettacademy.com)
-- 🎉 [Combo Deals](https://www.combodeals.com)
+- 🎉 [ComboDeals UAE](https://www.combodeals.com)
 
 ---
 
-**© 2015–2025 Smart Travel LLC. All rights reserved.**
+> This organization hosts code and repositories related to our digital platforms and internal development projects. For partnership or collaboration inquiries, please reach out through our [official website](https://smarttravels.ae).

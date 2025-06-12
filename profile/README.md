@@ -10,7 +10,7 @@
 
 ## 🌐 About Us
 
-**Smart Travel LLC** is a premier IATA-accredited **Travel Management Company (TMC)** founded in 2015 and headquartered in **Sharjah, UAE**. With **11 branches** across the UAE and India, we serve over **20,000 clients monthly**, offering a wide range of services from air ticketing and visa processing to worldwide holidays, car rentals, and travel insurance.
+**Smart Travel LLC** is a premier IATA-accredited **Travel Management Company (TMC)** founded in 2015 and headquartered in **Sharjah, UAE**.officially represented at [smarttravels.ae](https://smarttravels.ae), With **11 branches** across the UAE and India, we serve over **20,000 clients monthly**, offering a wide range of services from air ticketing and visa processing to worldwide holidays, car rentals, and travel insurance.
 
 ---
 
@@ -75,10 +75,11 @@ This GitHub Enterprise space serves as the **development hub** for our internal 
 
 ## 📫 Contact & Resources
 
-- 🌐 [Smart Travel LLC](https://www.smartzett.com)
-- 🧳 [Holiday Makers](https://www.holidaymakers.com)
+- 🌐 [Main Portal – SmartTravel.ae](https://smarttravels.ae)
+- 🧳 [HolidayMakers OTA](https://www.holidaymakers.com)
+- 💼 [SmartZett B2B Platform](https://www.smartzett.com)
 - 🎓 [Smartzett Academy](https://www.smartzettacademy.com)
-- 🎉 [Combo Deals](https://www.combodeals.com)
+- 🎉 [Combo Deals UAE](https://www.combodeals.com)
 
 ---
 
